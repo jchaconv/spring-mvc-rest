@@ -29,4 +29,6 @@ public class CategoryController {
     public CategoryDTO getCategoryByName(@PathVariable String name){
         return categoryService.getCategoryByName(name);
     }
+
+
 }
