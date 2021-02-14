@@ -18,6 +18,7 @@ expert\springframework\springmvcrest\services\CategoryService.class
 expert\springframework\springmvcrest\repositories\VendorRepository.class
 expert\springframework\springmvcrest\repositories\CustomerRepository.class
 expert\springframework\springmvcrest\domain\Customer.class
+expert\springframework\springmvcrest\config\SwaggerConfig.class
 expert\springframework\springmvcrest\model\CustomerDTO.class
 expert\springframework\springmvcrest\model\CategoryDTO.class
 expert\springframework\springmvcrest\services\CategoryServiceImpl.class
